@@ -207,21 +207,25 @@
     "file": "assets/compiled/svg/rings.svg",
     "src": "assets/static/images/svg-loaders/rings.svg"
   },
-  "auth-forgot-password.css": {
-    "file": "assets/compiled/css/auth-forgot-password.css",
-    "src": "auth-forgot-password.css"
+  "auth.css": {
+    "file": "assets/compiled/css/auth.css",
+    "src": "auth.css"
   },
-  "error-403.css": {
-    "file": "assets/compiled/css/error-403.css",
-    "src": "error-403.css"
+  "error.css": {
+    "file": "assets/compiled/css/error.css",
+    "src": "error.css"
+  },
+  "extra-component-comment.css": {
+    "file": "assets/compiled/css/extra-component-comment.css",
+    "src": "extra-component-comment.css"
   },
   "form-editor-summernote.css": {
     "file": "assets/compiled/css/form-editor-summernote.css",
     "src": "form-editor-summernote.css"
   },
-  "layout-rtl-backup.css": {
-    "file": "assets/compiled/css/layout-rtl-backup.css",
-    "src": "layout-rtl-backup.css"
+  "iconly.css": {
+    "file": "assets/compiled/css/iconly.css",
+    "src": "iconly.css"
   },
   "table-datatable-jquery.css": {
     "file": "assets/compiled/css/table-datatable-jquery.css",
